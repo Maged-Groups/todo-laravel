@@ -20,7 +20,7 @@
 <body class="h-screen p-4 font-sans antialiased dark:bg-black dark:text-white/50 flex justify-center items-center">
 
 	<div class="h-full border shadow-md rounded-md pa-8 bg-white">
-
+		@livewire('todo-list')
 	</div>
 </body>
 
